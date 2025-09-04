@@ -1,7 +1,7 @@
 Voir le **README.TXT** dans \DOCS
 Attention ! Prendre connaissance de la licence **LICENCE.TXT** dans \DOCS
 
-**Accompagne les 11 vidéos d'initiation à Semantic Kernel diffusée sur YouTube (+ le film complet de tous les épisodes)**
+**Accompagne les 11 vidéos d'initiation à Semantic Kernel diffusées sur YouTube (+ le film complet de tous les épisodes)**
 Pour toute information :
 - Consulter le blog Fot.Blog :  www.e-naxos.com/blog
 - Consulter la chaîne : https://www.youtube.com/@e-naxosConsulting
