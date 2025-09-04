@@ -1,0 +1,5 @@
+Résume le texte suivant en une phrase de 8 mots maximum :
+
+{{$input}}
+
+Ajoute ensuite la signature en utilisant le prénom "Olivier" écrit en Leet (en utilisant une version difficile à lire de Leet).

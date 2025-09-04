@@ -1,0 +1,1 @@
+Génère une signature cordiale de fin de mail incluant le nom de l'expéditeur "Olivier", celui de sa société "E-Naxos" et son poste "Gérant".

@@ -1,0 +1,4 @@
+Résume le texte suivant en une seule phrase très courte (moins de 25 mots), en ne conservant que l’idée principale :
+
+{{$input}}
+

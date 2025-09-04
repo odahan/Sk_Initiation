@@ -1,0 +1,2 @@
+Écris un e-mail poli à {{$client}} (le client demandeur) au sujet du produit {{$produit}} (produit que nous vendons) en terminant par un rappel de notre nouveau produit qui pourrait lui convenir, en utilisant la description suivante : {{$resume}}. 
+Sois professionnel, clair et concis.
