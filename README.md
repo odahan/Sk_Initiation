@@ -10,3 +10,6 @@ Pour toute information :
 Les vidéos 1 à 11 ont été (ou seront, suivant quand vous lirez ceci) publiées du 15 au 30 septembre 2025.
 
 Le film complet des 11 épisodes a été (ou sera, idem) publié le 1er octobre 2025
+
+**NOTA**
+Les quizz et les exercices corrigés parfois évoqués dans les vidéos ne sont plus fournis dans un zip avec le code. Ce dernier est disponible sur le présent repo GitHub et le reste fera l'objet de publications séparées sur Dot.Blog.
